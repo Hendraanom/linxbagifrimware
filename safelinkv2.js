@@ -19,13 +19,28 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*5)+ 1);
+var x=Math.floor((Math.random()*20)+ 1);
 var xxx=null;
 if(x=="1"){xxx="07/always-on-hunt-for-knowledge.html"}
 if(x=="2"){xxx="07/do-you-need-college-health-insurance.html"}
 if(x=="3"){xxx="07/health-insurance-for-every-need.html"}
 if(x=="4"){xxx="07/health-insurance-when-living-abroad.html"}
-if(x=="5"){xxx="07/advantages-to-indemnity-health.html"}a_to_ve[i].href="http://www.beritakita.xyz/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="07/advantages-to-indemnity-health.html"}
+if(x=="6"){xxx="08/introduction-to-programming.html"}
+if(x=="7"){xxx="08/networking-home-computers.html"}
+if(x=="8"){xxx="08/custom-built-sports-cars.html"}
+if(x=="9"){xxx="08/sports-cars-for-girls.html"}
+if(x=="10"){xxx="08/sports-car-insurance-tips.html"}
+if(x=="11"){xxx="08/sports-car-engine-mainten.html"}
+if(x=="12"){xxx="08/new-sports-cars.html"}
+if(x=="13"){xxx="08/italian-sports-cars.html"}
+if(x=="14"){xxx="08/mustang-sports-car.html"}
+if(x=="15"){xxx="08/bmw-sports-car.html"}
+if(x=="16"){xxx="08/personal-loan-insurance.html"}
+if(x=="17"){xxx="08/personal-loan-officers.html"}
+if(x=="18"){xxx="08/online-personal-loans.html"}
+if(x=="19"){xxx="08/secured-personal-loans.html"}
+if(x=="20"){xxx="08/types-of-personal-loans.html"}a_to_ve[i].href="http://www.beritakita.xyz/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
